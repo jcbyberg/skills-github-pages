@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 # Christian Discipleship Today: Embracing the Journey in the 21st Century
 
 In an era marked by rapid technological advancements and societal shifts, the essence of being a disciple of Christ remains an anchor for many believers, guiding them through the complexities of modern life. Discipleship, a journey of learning, growing, and walking in the footsteps of Jesus, invites individuals into a transformative relationship with God. This exploration into Christian discipleship today draws upon a wealth of insights from contemporary thought leaders and ancient scripture, aiming to illuminate the path for those seeking to deepen their faith in the 21st century.
